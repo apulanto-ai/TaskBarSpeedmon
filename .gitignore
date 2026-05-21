@@ -1,0 +1,12 @@
+# Compiled output
+*.exe
+*.pdb
+*.obj
+
+# User-specific settings
+*.user
+.vs/
+
+# OS
+Thumbs.db
+desktop.ini
